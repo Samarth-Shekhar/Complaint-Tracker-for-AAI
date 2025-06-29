@@ -1,6 +1,6 @@
 **📝 Complaint Tracker: Complaint Management System**
 
-**💡 Description**
+**💡 Description:**
 The Complaint Tracker is technically feasible due to its reliance on lightweight technologies like Python (Flask), SQLite, and basic web technologies, which require minimal computational resources and are easy to deploy. It runs smoothly on low-cost hosting and can even operate locally without a server. Economically, the system is highly cost-effective as it utilizes open-source tools, reducing development and maintenance expenses. It requires no expensive hardware or licenses, making it suitable even for small organizations with limited budgets.
 
 **💻 Tech Stack Used:**
